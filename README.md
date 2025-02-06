@@ -1,5 +1,8 @@
 # Retail-Data-Lens
 
+![download (1)](https://github.com/user-attachments/assets/4d48609b-38f4-42ca-a589-cd944f145e05)
+
+
 This project analyzes retail transaction data to uncover valuable insights about our top-performing products and the characteristics of our most loyal customers.  By understanding these patterns, we can optimize our marketing strategies, inventory management, and customer relationship management to drive growth and profitability.
 
 ## Project Overview
@@ -16,10 +19,8 @@ The project uses Python with libraries like Pandas, Matplotlib, and Seaborn for 
 
 The project uses two datasets:
 
-*   `purchase.csv`: Contains customer demographics (LIFESTAGE, PREMIUM_CUSTOMER).
-*   `transaction.csv`: Contains transaction details (DATE, STORE_NBR, LYLTY_CARD_NBR, TXN_ID, PROD_NBR, PROD_NAME, PROD_QTY, TOT_SALES).
-
-*(Note: You should replace this with the actual source of your data if it's different.)*
+*   `purchase.csv`: Contains customer demographics (Lifestage, Premium Customers).
+*   `transaction.csv`: Contains Transaction details (Date of Transaction, Store Number, Loyalty Card Number, Transaction ID, Product Number, Product Name, Product Quantity, Total Sales).
 
 ## Code
 
